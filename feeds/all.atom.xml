@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-05-12T23:18:00+04:30</updated><entry><title>گزارش جلسه ۱۹۷ام گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-197" rel="alternate"></link><published>2017-05-12T23:18:00+04:30</published><updated>2017-05-12T23:18:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-05-12:/reports/session-197</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۲ اردیبهشت ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-05-16T23:18:00+04:30</updated><entry><title>گزارش جلسه ۱۹۸ام گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-198" rel="alternate"></link><published>2017-05-16T23:18:00+04:30</published><updated>2017-05-16T23:18:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-05-16:/reports/session-198</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۶ اردیبهشت ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;جلسه امروز با مرور …&lt;/p&gt;</summary><content type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۶ اردیبهشت ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;جلسه امروز با مرور اخبار مرتبط با نرم‌افزارهای متن‌باز آغاز شد. در زیر با بخشی از آن عناوین آشنا میشویم:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;انتشار نسخه OpenSSH v7.5 و پایان پشتیبانی از پروتکل SSHv1&lt;/li&gt;
+&lt;li&gt;انتشار نسخه Wine v2.8&lt;/li&gt;
+&lt;li&gt;پشتیبانی از اجرای فایل‌های باینری لینوکس (Linux ELF) توسط سیستم‌عامل مایکروسافت ویندوز&lt;/li&gt;
+&lt;li&gt;پایان امتیاز اختراع انکدینگ Mp3 و ساپورت قریب‌الوقوع توزیع فدورا&lt;/li&gt;
+&lt;li&gt;انتشار نسخه جدید سیستم‌عامل‌های Debian 8.8, pfSense v2.3.4, FreeNAS 11.0-RC, GRML 2017.5 RC1&lt;/li&gt;
+&lt;li&gt;انتشار نسخه Ardour 5.9&lt;/li&gt;
+&lt;li&gt;و نهایتا خبر انتشار &lt;a href="https://en.wikipedia.org/wiki/Google_Fuchsia"&gt;سیستم‌عامل جدید گوگل&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;بررسی چند رخنه امنیتی در ویندوز &lt;em&gt;احسان نمکی&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;در ادامه، گروه میزبان آقای احسان نمکی با ارائه‌ای چالش برانگیز درباره امنیت بود. در این ارائه ابتدا به اختصار با تاریخچه‌ای از شکل گیری 
+سیستم‌عامل یونیکس و نحوه شکل گیری سیستم‌عامل‌های BSD، پروژه GNU و همچنین سیستم عامل Linux آشنا شدیم. مقدمه‌ای از این
+ارائه را در زیر بخوانیم:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;عبارت باگ  به نوعی اشکال یا اشتباه در اجرای نرم‌افزار که موجب نتایج اشتباه یا اجرا نشدن نرم‌افزار می‌شود، اطلاق می‌گردد. برنامه‌نویسان
+مایکروسافت سابقه طولانی در این زمینه داشته‌اند و نسخه‌های مختلف ویندوز با باگ‌های کوچک و بزرگی همراه بوده که معمولاًً با ارائه
+به‌روزرسانی‌های مختلف برطرف شده است اما در بعضی اوقات باگ هایی که در پرنگ ترین محصول مایکروسافت یعنی ویندوز دیده میشود
+که خسارات جبران ناپذیری را به دنبال دارد  ویندوز و باگهایش بارها و بارها خسارت های شدید به صاحب کپانی های بزرگ زده است که یکی از
+خدایان این باگ ها به  بانام  ممم شناخته می شود این باگ  به راحتی آب خوردن  سیستم  را در اختیار شخص هکر می گذارد.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;در ادامه با معرفی توزیع کالی و توضیحی مختصر بر نحوه کار با فریم‌ورک  &lt;a href="https://en.wikipedia.org/wiki/Metasploit_Project"&gt;Metasploit&lt;/a&gt;
+به بررسی دو مورد از آسیب‌پذیری‌های جدی در سیستم عامل ویندوز به نام‌های  &lt;a href="https://technet.microsoft.com/en-us/library/security/ms08-067.aspx"&gt;MS08_067&lt;/a&gt;
+و همچنین &lt;a href="https://technet.microsoft.com/en-us/library/security/ms12-020.aspx"&gt;MS12_020&lt;/a&gt;
+در سال‌های ۲۰۰۸ و ۲۰۱۲ میلادی آشنا شدیم. درباره آسیب‌پذیر اخیر سیستم‌عامل ویندوز مرتبط با
+باج افزار &lt;a href="https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"&gt;WannaCry&lt;/a&gt;
+صحبت کردیم و در انتهای ارائه نیز، سوالات زیادی از سمت اعضای حاضر در جلسه مطرح و پاسخ آن با دیگر اعضای گروه به اشتراک گذاشته شد.&lt;/p&gt;
+&lt;h2&gt;بحث آزاد&lt;/h2&gt;
+&lt;p&gt;در انتهای جلسه طبق معمول جلسات گذشته، اعضا به بیان نظرات و دیدگاه‌های خود در رابطه با فعالیت‌های گروه و همچنین کار با گنو/لینوکس
+و نرم‌افزارهای آزاد پرداختند. از بحث درباره مفهوم و جایگاه امنیت در گنو/لینوکس تا معایب و مزایای systemd در گنو/لینوکس. همچنین
+در انتهای جلسه از  اعضای گروه خواسته شد که در صورت تمایل، موضوعات و مباحثی که تمایل هستند در گروه بیشتر با آنها آشنا شوند را مطرح
+کنند. از مواردی که مطرح شد می‌توان به مباحث زیر اشاره نمود:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;آموزش ‪SDN (Software-Defined Networking)‬&lt;/li&gt;
+&lt;li&gt;آموزش کامپایل و کار با Makefile ها در گنو/لینوکس&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;از علاقمند درخواست می شود در صورت تمایل به معرفی و ارائه در رابطه با هر یک از مباحث فوق، از طریق یکی از راه‌های ارتباطی گروه
+جهت اعلام آمادگی اقدام نمایند.&lt;/p&gt;
+&lt;p&gt;این جلسه در ساعت ۱۹:۳۰ خاتمه یافت.&lt;/p&gt;</content></entry><entry><title>گزارش جلسه ۱۹۷ام گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-197" rel="alternate"></link><published>2017-05-12T23:18:00+04:30</published><updated>2017-05-12T23:18:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-05-12:/reports/session-197</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۲ اردیبهشت ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;در این بخش با …&lt;/p&gt;</summary><content type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۲ اردیبهشت ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
