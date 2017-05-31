@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-05-16T23:18:00+04:30</updated><entry><title>گزارش جلسه ۱۹۸ام گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-198" rel="alternate"></link><published>2017-05-16T23:18:00+04:30</published><updated>2017-05-16T23:18:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-05-16:/reports/session-198</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۶ اردیبهشت ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-05-31T18:38:00+04:30</updated><entry><title>گزارش جلسه ۱۹۹م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-199" rel="alternate"></link><published>2017-05-31T18:38:00+04:30</published><updated>2017-05-31T18:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-05-31:/reports/session-199</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۹ خرداد ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;جلسه امروز با مرور …&lt;/p&gt;</summary><content type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۹ خرداد ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;جلسه امروز با مرور اخبار و معرفی مقاله‌های علمی و آموزشی مرتبط با نرم‌افزارهای متن‌باز و آزاد آغاز شد.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;‫‫&lt;a href="‪https://www.theregister.co.uk/2017/05/25/windows_is_now_built_on_git/‬"&gt;مهاجرت سورس کُد ویندوز مایکروسافت به git‬&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theregister.co.uk/2017/05/25/windows_is_now_built_on_git"&gt;مقدمه‌ای بر فایل‌سیستم EXT4 در لینوکس&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="‪https://www.rosehosting.com/blog/how-to-set-up-a-teamspeak-server-on-ubuntu-16-04/‬"&gt;‫آشنایی با نحوه راه‌اندازی سرویس TeamSpeak‬&lt;/a&gt;،
+ابزاری متن‌باز برای مکالمات صوتی زنده&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2daygeek.com/resetter-reset-ubuntu-linux-mint-to-factory-default-settings"&gt;‫آشنایی با ابزار resetter‬&lt;/a&gt;
+ برای بازگرداندن تنظیمات توزیع گنو/لینوکسی مینت به حالت پیش‌فرض&lt;/li&gt;
+&lt;li&gt;&lt;a href="‪https://linux.slashdot.org/story/17/05/22/0525216/linux-410-kernel-reaches-end-of-life?utm_source=rss0.9mainlinkanon&amp;amp;utm_medium=feed‬"&gt;‫پایان پشتیبانی رسمی کرنل لینوکس نسخه ۴.۱۰‬&lt;/a&gt;
+*و همچنین خبر تائید &lt;a href="‪https://news.slashdot.org/story/17/05/27/0210259/wormable-code-execution-bug-lurked-in-samba-for-7-years?utm_source=rss0.9mainlinkanon&amp;amp;utm_medium=feed‬"&gt;‫وجود باگ امنیتی در سرویس متن‌باز samba‬&lt;/a&gt; به مدت بیش از ۷ سال&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;و در آخر و در بخش انتشارهای جدید، با عناوین زیر آشنا شدیم:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="‪https://linux.slashdot.org/story/17/05/22/0525216/linux-410-kernel-reaches-end-of-life?utm_source=rss0.9mainlinkanon&amp;amp;utm_medium=feed‬"&gt;‫انتشار نسخه ۲.۳.۳ ابزار ویرایش تصویر Openshot‬&lt;/a&gt;
+*&lt;a href="‪http://linux.softpedia.com/blog/raspand-marshmallow-6-0-1-android-os-now-available-for-raspberry-pi-3-and-2-sbcs-515935.shtml‬"&gt;‫انتشار نسخه ۶.۰.۱ توزیع اندرویدی RaspAnd برای سخت‌افزار رسپبری‌پای‬&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="‪http://news.softpedia.com/news/kde-plasma-5-8-7-lts-desktop-environment-released-with-over-60-improvements-515970.shtml‬"&gt;‫انتشار نسخه ۵.۸.۷ از دسکتاپ KDE Plasma‬&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="‪https://wiki.scribus.net/canvas/1.5.3_Release‬"&gt;‫انتشار نسخه ۱.۵.۳ ابزار scribus‬&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;انتشار نسخه جدید توزیع &lt;a href="http://distrowatch.com/?newsid=09828"&gt;Untabgle&lt;/a&gt; مبتنی بر دبین جهت استفاده به عنوان دیواره‌آتش (Firewall)&lt;/li&gt;
+&lt;li&gt;انتشار نسخه ۰.۴.۱ توزیع &lt;a href="http://distrowatch.com/?newsid=09830"&gt;Elementary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;انتشار نسخه جدید توزیع &lt;a href="http://distrowatch.com/?newsid=09836"&gt;bitkey&lt;/a&gt; که یک توزیع با ابزار پیش‌فرض کار با بیت‌کوین&lt;/li&gt;
+&lt;li&gt;انتشار نسخه ۳.۶.۰ توزیع مستقل و سبک &lt;a href="http://distrowatch.com/?newsid=09836"&gt;Alpine Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;و همچنین انتشار نسخه ۰.۴.۵ از سیستم‌عامل آزاد &lt;a href="http://distrowatch.com/?newsid=09831"&gt;reactOS&lt;/a&gt; که
+پیاده‌سازی متن‌باز از معماری ویندوزی NT با هدف اجرای ابزار ویندوزی بر روی یک سیستم عامل‌آزاد و متن‌باز می‌باشد.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;نکته خط فرمانی &lt;em&gt;علی موسوی&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;در ادامه، گروه میزبان ارائه‌ای کوتاه ولی بسیار مفیدی از آقای موسوی درباره نکات مفید خط فرمانی درکار با خط فرمان بود. مواردی که در این بخش
+مطرح شدند عبارتند از:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;هدایت خروجی (&lt;a href="http://www.tldp.org/LDP/abs/html/io-redirection.html"&gt;Output Redirection&lt;/a&gt;)
+برای ارسال (و تفکیک) خروجی و خطای استاندارد دستورات&lt;/li&gt;
+&lt;li&gt;بسط گیومه (&lt;a href="http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_04.html"&gt;braces expansion&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;و همچنین &lt;a href="http://www.tldp.org/LDP/abs/html/commandsub.html"&gt;Command Substitution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;بحث آزاد&lt;/h2&gt;
+&lt;p&gt;در انتهای جلسه طبق معمول جلسات گذشته، اعضا به بیان نظرات و دیدگاه‌های خود در رابطه با فعالیت‌های گروه و همچنین کار با گنو/لینوکس
+و نرم‌افزارهای آزاد پرداختند. این بخش با توضیحاتی درباره window manager ها در گنو/لینوکس صحبت شد. از طریق 
+&lt;a href="https://github.com/tuxitop/dotfiles"&gt;این آدرس&lt;/a&gt; می‌توانید تنظیمات مربوط به مدیر پنجره i3 (و همچنین ZSH) مربوط به
+سیستم آقای موسوی که در ارائه خود از آن استفاده می‌کردند را مشاهده نمایید.
+در انتهای جلسه از  اعضای گروه خواسته شد که در صورت تمایل، موضوعات و مباحثی که تمایل هستند در گروه بیشتر با آنها آشنا شوند را
+مطرح کنند. از مواردی که مطرح شد می‌توان به مباحث زیر اشاره نمود:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;آشنایی با نحوه راه‌اندازی سیستم‌عامل گنو/لینوکس بر روی دستگاه‌هایی همچون رسپبری‌پای&lt;/li&gt;
+&lt;li&gt;معرفی  توزیع‌هایی همچون Deepin و Elementary&lt;/li&gt;
+&lt;li&gt;کدنویسی با فریم‌ورک آزاد ‪.NetCore‬ مایکروسافت در توزیع‌های گنو/لینوکس&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;از علاقمند درخواست می شود در صورت تمایل به معرفی و ارائه در رابطه با هر یک از مباحث فوق، از طریق یکی از راه‌های ارتباطی گروه
+جهت اعلام آمادگی اقدام نمایند.&lt;/p&gt;
+&lt;p&gt;این جلسه در ساعت ۱۹:۳۰ خاتمه یافت.&lt;/p&gt;</content></entry><entry><title>گزارش جلسه ۱۹۸ام گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-198" rel="alternate"></link><published>2017-05-16T23:18:00+04:30</published><updated>2017-05-16T23:18:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-05-16:/reports/session-198</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۶ اردیبهشت ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
 جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
