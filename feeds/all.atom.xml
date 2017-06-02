@@ -32,14 +32,16 @@
 پیاده‌سازی متن‌باز از معماری ویندوزی NT با هدف اجرای ابزار ویندوزی بر روی یک سیستم عامل‌آزاد و متن‌باز می‌باشد.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;نکته خط فرمانی &lt;em&gt;علی موسوی&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;در ادامه، گروه میزبان ارائه‌ای کوتاه ولی بسیار مفیدی از آقای موسوی درباره نکات مفید خط فرمانی درکار با خط فرمان بود. مواردی که در این بخش
+&lt;p&gt;در ادامه، گروه میزبان ارائه‌ای کوتاه ولی بسیار مفید از آقای موسوی درباره نکات مفید خط فرمانی درکار با خط فرمان بود. مواردی که در این بخش
 مطرح شدند عبارتند از:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;هدایت خروجی (&lt;a href="http://www.tldp.org/LDP/abs/html/io-redirection.html"&gt;Output Redirection&lt;/a&gt;)
-برای ارسال (و تفکیک) خروجی و خطای استاندارد دستورات&lt;/li&gt;
-&lt;li&gt;بسط گیومه (&lt;a href="http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_04.html"&gt;braces expansion&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;و همچنین &lt;a href="http://www.tldp.org/LDP/abs/html/commandsub.html"&gt;Command Substitution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;هدایت خروجی (Output Redirection) برای ارسال (و تفکیک) خروجی و خطای استاندارد دستورات&lt;/li&gt;
+&lt;li&gt;بسط آکولاد (Brace Expansion)&lt;/li&gt;
+&lt;li&gt;جایگزاری دستورات (Command Substitution)&lt;/li&gt;
+&lt;li&gt;حلقه for&lt;/li&gt;
+&lt;li&gt;جستجوی برعکس در تاریخچه (Reverse History Seach)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;توضیحات بیشتر برای هر یک از این مباحث را می‌توانید در &lt;a href="http://alimsvi.ir/articles/20170601_useful-bash-tricks/"&gt;وبسایت آقای علی موسوی&lt;/a&gt; مشاهده کنید.&lt;/p&gt;
 &lt;h2&gt;بحث آزاد&lt;/h2&gt;
 &lt;p&gt;در انتهای جلسه طبق معمول جلسات گذشته، اعضا به بیان نظرات و دیدگاه‌های خود در رابطه با فعالیت‌های گروه و همچنین کار با گنو/لینوکس
 و نرم‌افزارهای آزاد پرداختند. این بخش با توضیحاتی درباره window manager ها در گنو/لینوکس صحبت شد. از طریق 
