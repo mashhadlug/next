@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-05-31T18:38:00+04:30</updated><entry><title>گزارش جلسه ۱۹۹م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-199" rel="alternate"></link><published>2017-05-31T18:38:00+04:30</published><updated>2017-05-31T18:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-05-31:/reports/session-199</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۹ خرداد ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-06-13T18:38:00+04:30</updated><entry><title>گزارش جلسه ۲۰۰م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-200" rel="alternate"></link><published>2017-06-13T18:38:00+04:30</published><updated>2017-06-13T18:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-06-13:/reports/session-200</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۳ خرداد ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویستمین جلسه گروه کاربران …&lt;/p&gt;</summary><content type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۳ خرداد ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویستمین جلسه گروه کاربران لینوکس مشهد، با ارائه‌ای ویژه از بررسی اخبار و مقاله‌های علمی مرتبط با مباحث مطرح پیرامون نرم‌افزارهای
+آزاد و متن‌باز، با تشکر از «آقای مصطفی ستاری» برگزار شد. درصورت تمایل به مطالعه بیشتر، می‌توانید بر روی پیوند‌های مرتبط با هر خبر
+کلیک نمائید:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;بررسی خبر &lt;a href="http://www.techradar.com/reviews/linux-foundation-introduction-to-linux-course"&gt;برگزاری دوره «آشنایی با لینوکس» توسط بنیاد لینوکس&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;بررسی مقاله‌ای با عنوان &lt;a href="http://www.networkworld.com/article/3199032/linux/the-problem-with-linux-packaging-in-large-organizations.html"&gt;مشکل بسته‌های نرم‌افزاری لینوکس در سازمان‌های بزرگ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;شرح مختصری بر نحوه بروز &lt;a href="https://www.bleepingcomputer.com/news/security/linux-distros-patch-dangerous-vulnerability-in-sudo-command/"&gt;مشکل امنیتی در ابزار sudo&lt;/a&gt; و چگونگی رفع شدن آن در کُد upstream&lt;/li&gt;
+&lt;li&gt;معرفی مختصر پروژه AGL و خبر &lt;a href="http://www.ciodive.com/news/toyota-open-source-vehicle-technology/443959/"&gt;چرخش تویوتا به سمت تکنولوژی‌های متن‌باز&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;معرفی دلایل و &lt;a href="https://www.maketecheasier.com/multiverse-universe-restricted-main-repositories-ubuntu/"&gt;تفاوت مخازن مختلف در توزیع‌های اوبونتو&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;توضیحی بر &lt;a href="https://m.theregister.co.uk/2017/06/01/linux_open_source_container_threat_to_vmware_microsoft/"&gt;تفاوت مجازی‌ساز‌ها و پروژه Docker در لینوکس&lt;/a&gt; و &lt;a href="https://www.linux.com/news/chapter/Intro-to-Containers/2017/5/how-moby-project-pivots-dockers-open-source-business-model"&gt;بررسی خبر معرفی پروژه Moby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;همچنین در دو مقاله مجزا به موضوع &lt;a href="https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/"&gt;چندپارگی در لینوکس&lt;/a&gt; و همچنین پست وبلاگی جالبی درباره &lt;a href="http://linuxblog.darkduck.com/2017/05/the-linux-virus-how-it-can-be.html"&gt;چگونگی اجرای ویروس بر روی لینوکس&lt;/a&gt; پرداختیم.&lt;/li&gt;
+&lt;li&gt;معرفی &lt;a href="http://linuxgizmos.com/catalog-of-98-open-spec-hacker-friendly-sbcs/"&gt;مجموعه‌ای ۹۸ عددی از SOC های متن باز و دوستدار هکر&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;بررسی مقاله‌ای از linuxinsider با موضوع &lt;a href="http://www.linuxinsider.com/story/84573.html"&gt;لینوکس و هک&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;بحث و تبادل نظر درباره &lt;a href="https://linux.slashdot.org/story/17/06/11/0552231/linux-malware-infects-raspberry-pi-devices-and-makes-them-mine-cryptocurrency?utm_source=rss0.9mainlinkanon&amp;amp;utm_medium=feed"&gt;استفاده بدافزارهای لینوکسی جهت اکتشاف بیت‌کوین&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;معرفی پروژه‌ای به نام &lt;a href="https://github.com/dspinellis/unix-history-repo"&gt;Unix History repo&lt;/a&gt;  که تاریخچه کُد سیستم‌عامل یونیکس را از پیدایش تا یه امروز بر روی سرویس Github در اختیار عموم قرار می‌دهد&lt;/li&gt;
+&lt;li&gt;معرفی وبسایت &lt;a href="https://www.rewritinghistorycasts.com/"&gt;rewritinghistorycasts.com&lt;/a&gt; که در ویدئوهایی کوتاه به بازنویسی &lt;a href="https://www.rewritinghistorycasts.com/screencasts/bsd-4.4:-cat"&gt;ابزار محبوب یونیکسی&lt;/a&gt; اقدام می‌کند. &lt;/li&gt;
+&lt;li&gt;معرفی کتاب بسیار مفید و جذاب با عنوان &lt;a href="http://keithcu.com/wordpress/?page_id=407"&gt;پس از جنگ‌ نرم‌افزارها&lt;/a&gt; نوشته «کیت‌کورتیس»&lt;/li&gt;
+&lt;li&gt;بررسی خبر &lt;a href="http://www.zdnet.com/article/red-hat-supports-nfs-in-ceph-storage-2-3/"&gt;پشتیبانی فایل‌سیستم توزیع شده Ceph از NFS در ویرایش 2.3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;معرفی وبسایت ارزشمند &lt;a href="https://www.ossblog.org"&gt;ossblog.org&lt;/a&gt; برای آشنایی با کتاب‌های برنامه‌نویسی آزاد و رایگان&lt;/li&gt;
+&lt;li&gt;و درنهایت &lt;a href="https://insights.hpe.com/articles/the-first-5-things-to-do-when-your-linux-server-keels-over-1705.html"&gt;۵ کار برای عیب‌یابی لینوکس&lt;/a&gt;، مقاله‌ای برای sysadmin های تازه‌کار&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;بحث آزاد&lt;/h2&gt;
+&lt;p&gt;در انتهای جلسه طبق معمول جلسات گذشته، اعضا به بیان نظرات و دیدگاه‌های خود و همچنین شبکه‌سازی پرداختند. با برخی از موارد
+مطرح شده در این بخش به صورت موردی در زیر اشنا شدیم:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;نحوه کوچک‌سازی توزیع‌های گنو/لینوکس بر روی دستگاه‌های توساز&lt;/li&gt;
+&lt;li&gt;کم کردن حجم دانلود بروز‌رسانی‌های نرم‌افزاری در توزیع فدورا&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;این جلسه در ساعت ۱۹:۳۰ خاتمه یافت.&lt;/p&gt;
+&lt;p&gt;با  تشکر از همه دوستانی که در این جلسه حضور یافتند، گروه آماده دریافت نظرات و انتقادات اعضای گروه می‌باشد.&lt;/p&gt;</content></entry><entry><title>گزارش جلسه ۱۹۹م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-199" rel="alternate"></link><published>2017-05-31T18:38:00+04:30</published><updated>2017-05-31T18:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-05-31:/reports/session-199</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۹ خرداد ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
 جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
