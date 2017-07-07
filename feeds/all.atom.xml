@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-06-13T18:38:00+04:30</updated><entry><title>گزارش جلسه ۲۰۰م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-200" rel="alternate"></link><published>2017-06-13T18:38:00+04:30</published><updated>2017-06-13T18:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-06-13:/reports/session-200</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۳ خرداد ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-07-07T20:38:00+04:30</updated><entry><title>گزارش جلسه ۲۰۱م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-201" rel="alternate"></link><published>2017-07-07T20:38:00+04:30</published><updated>2017-07-07T20:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-07-07:/reports/session-201</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۳ تیرماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویست‌ویکمین جلسه گروه کاربران …&lt;/p&gt;</summary><content type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۳ تیرماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویست‌ویکمین جلسه گروه کاربران لینوکس مشهد، با ارائه‌ اخبار و مقاله‌های علمی مرتبط با مباحث مطرح پیرامون نرم‌افزارهای
+آزاد و متن‌باز، با تشکر از «آقای مصطفی ستاری» برگزار شد. درصورت تمایل به مطالعه بیشتر، می‌توانید بر روی پیوند‌های مرتبط با هر خبر
+کلیک نمائید:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lwn.net/Articles/726984/rss"&gt;انتشار نسخه ۴.۱۲ هسته لینوکس&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arstechnica.com/information-technology/2017/06/firefox-multiple-content-processes/"&gt;انتشار نسخه ۵۴ مرورگر فایرفاکس&lt;/a&gt; و شروع پشتیبانی از چندپردازشی در این مرورگر محبوب&lt;/li&gt;
+&lt;li&gt;انتشار نسخه ۹ دبین با نام Stretch و بررسی ویژگی‌های اضافه شده یکی از اصلی‌ترین شاخه‌های توزیع‌های گنو/لینوکسی&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://distrowatch.com/9886"&gt;انتشار نسخه ۱۸.۲ لینوکس مینت&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://distrowatch.com/9878"&gt;انتشار نسخه جدید توزیع CloneZilla&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://distrowatch.com/9876"&gt;انتشار نسخه ۱۷.۰.۲ لینوکس مانجارو&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://distrowatch.com/9859"&gt;انتشار نسخه ۳.۰ توزیع گنو/لینوکسی Tails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.linuxjournal.com/content/freedos-23-years-old-and-counting"&gt;تولد ۲۳ سالگی پروژه آزاد و متن‌باز FreeDOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;بررسی توزیع‌های محبوب گنو/لینوکسی در وبسایت &lt;a href="http://distrowatch.com"&gt;DistroWatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.zdnet.com/article/apples-iphone-turns-10-heres-how-the-device-impacted-business-work/"&gt;انتشار نسخه ۱.۷ ابزار Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;همچنین بررسی دو باگ امنیتی اخیر در پروژه systemd با هدف &lt;a href="https://it.slashdot.org/story/17/07/03/0343258/severe-systemd-bug-allowed-remote-code-execution-for-two-years?utm_source=rss0.9mainlinkanon&amp;amp;utm_medium=feed"&gt;اجرای کد راه‌دور توسط کاربر مخرب&lt;/a&gt; و همچنین &lt;a href="https://ma.ttias.be/giving-perspective-systemds-usernames-start-digit-get-root-privileges-bug/"&gt;گرفتن دسترسی کاربری ریشه&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://linux.slashdot.org/story/17/06/24/0330224/stack-clash-linux-flaw-enables-root-access-patch-now"&gt;بررسی باگ امنیتی موسوم به Stack Clash&lt;/a&gt; که طیف وسیعی از سیستم‌عامل‌های مبتنی بر گنو/لینوکس و BSD را شامل می‌شود&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;همچنین در انتهای این بخش نیز دو مقاله با عناوین زیر مورد بحث و صحبت قرار گرفتند:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;بررسی &lt;a href="http://free-electrons.com/blog/free-and-ready-to-use-cross-compilation-toolchains/"&gt;toolchain های آزاد و آماده استفاده برای cross-compilling&lt;/a&gt;
+و همچنین معرفی دو ابزار &lt;a href="https://www.kernel.org/doc/Documentation/kdump/kdump.txt"&gt;kdump&lt;/a&gt; و &lt;a href="https://linux.die.net/man/8/kexec"&gt;kexec&lt;/a&gt; در بستر توزیع‌های گنو/لینوکس&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;بحث آزاد&lt;/h2&gt;
+&lt;p&gt;در انتهای جلسه طبق معمول جلسات گذشته، اعضا به بیان نظرات و دیدگاه‌های خود و همچنین شبکه‌سازی پرداختند. با برخی از موارد
+مطرح شده در این بخش به صورت موردی در زیر اشنا شدیم:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;با توجه به برگزاری انتخابات راهبران از طریق لیست‌پستی گروه، از اعضای حاضر در جلسه درخواست شد در صورت تمایل به مدون‌تر کردن عضویت
+اعضا در گروه، ازین پس لیست اعضای شرکت کننده در جلسات گروه به صورت رسمی ثبت شود. متعاقبا شرایط عضویت اعضای فعال و رسمی گروه
+توسط گروه راهبران از طریق رسانه‌های مرتبط با گروه اطلاع‌رسانی خواهد شد.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;بحث و تبادل نظر درباره تفاوت توزیع‌های گنو/لینوکسی و سیستم‌عامل‌های مبتنی بر BSD. از دوستان صاحب نظر در اینباره دعوت می‌شود
+در صورت علاقه برای صحبت علمی بیشتر در اینباره در یکی از جلسات آینده گروه اعلام آماده نمایند.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;در انتهای جلسه یکی از حاضرین &lt;strong&gt;پیشنهادی برگزاری جلسات گروه به صورت هفتگی&lt;/strong&gt; را مطرح کردند. اگر دیگر اعضای محترم گروه نیز تمایل
+به شرکت و احیانا همکاری در برگزاری هفتگی گروه را داشته باشند، می‌توان این پیشنهاد را در جلسه راهبران پیگیری کرد.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;همچنین در این جلسه گروه میزبان میهمان عزیزی از دانشگاه شهر زابل بود که دقایقی هرچند کوتاه از دانش و تجربیات ایشان
+در زمینه بکاربردن از ابزارهای آزاد و متن‌باز در سازمان‌های آموزشی استفاده شد.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;این جلسه در ساعت ۱۹:۳۰ خاتمه یافت.&lt;/p&gt;
+&lt;p&gt;با  تشکر از همه دوستانی که در این جلسه حضور یافتند، گروه آماده دریافت نظرات و انتقادات اعضای گروه می‌باشد.&lt;/p&gt;</content></entry><entry><title>گزارش جلسه ۲۰۰م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-200" rel="alternate"></link><published>2017-06-13T18:38:00+04:30</published><updated>2017-06-13T18:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-06-13:/reports/session-200</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۳ خرداد ماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
 جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
