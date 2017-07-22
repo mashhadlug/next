@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-07-07T20:38:00+04:30</updated><entry><title>گزارش جلسه ۲۰۱م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-201" rel="alternate"></link><published>2017-07-07T20:38:00+04:30</published><updated>2017-07-07T20:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-07-07:/reports/session-201</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۳ تیرماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-07-22T20:38:00+04:30</updated><entry><title>گزارش جلسه ۲۰۲م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-202" rel="alternate"></link><published>2017-07-22T20:38:00+04:30</published><updated>2017-07-22T20:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-07-22:/reports/session-202</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۷ تیرماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt; &lt;em&gt;بیژن ابرهیمی&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویست و دومین …&lt;/p&gt;</summary><content type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۷ تیرماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt; &lt;em&gt;بیژن ابرهیمی&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویست و دومین جلسه گروه کاربران لینوکس مشهد، با ارائه‌ اخبار و مقاله‌های علمی مرتبط با مباحث مطرح پیرامون نرم‌افزارهای
+آزاد و متن‌باز، با تشکر از «آقای مصطفی ستاری» برگزار شد. درصورت تمایل به مطالعه بیشتر، می‌توانید بر روی پیوند‌های مرتبط با هر خبر
+کلیک نمائید:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.zynamics.com/software.html"&gt;انتشار نسخه ۴.۳ ابزار bindiff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;تولد &lt;a href="https://tech.slashdot.org/story/17/07/09/0414245/48-year-old-multics-operating-system-resurrected"&gt;۴۸ سالگی سیستم‌عامل مولتیکس&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;معرفی طرح جدید پروژه &lt;a href="https://letsencrypt.org/"&gt;Let's Encrypt&lt;/a&gt; برای &lt;a href="https://yro.slashdot.org/story/17/07/08/036251/the-effs-lets-encrypt-plans-wildcard-certificates-for-subdomains"&gt;پشتیبانی از صدور گواهی‌نامه برای تمامی Subdomain ها&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;انتشار نسخه ۲۶ توزیع محبوب گنو/لینوکسی فدورا و &lt;a href="https://fossbytes.com/fedora-26-released-features-download/"&gt;مروری بر ویژگی‌های جدید آن&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;در ادامه و در بخش مرور ابزار و مقاله‌های آموزشی:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;معرفی ابزار &lt;a href="https://www.howtoforge.com/linux-csplit-command"&gt;csplit&lt;/a&gt; بمنظور قطعه کردن فایل به اندازه‌های کوچکتر در خط فرمان&lt;/li&gt;
+&lt;li&gt;بررسی ابزار &lt;a href="http://www.techrepublic.com"&gt;dnsmasq&lt;/a&gt;، مقاله‌ای از &lt;a href="http://www.techrepublic.com/article/how-to-speed-up-dns-caching-on-your-linux-machines-with-dnsmasq"&gt;TechRepublic&lt;/a&gt; با هدف معرفی و نحوه راه‌اندازی یک DNS Cache Server محلی&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;همچنین در بخش مقالات این هفته موضوعات زیر مورد بحث و بررسی قرار گرفتند:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;معرفی &lt;a href="https://wesharethis.com/2017/07/15/dynamic-port-forwarding-mount-socks-server-ssh"&gt;راهنمای dynamic port forwarding با ابزار ssh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;بررسی مقاله از سایت &lt;a href="http://opensource.com"&gt;opensource.com&lt;/a&gt; راهنمای &lt;a href="https://opensource.com/article/17/7/functional-testing"&gt;تست عملکردی ابزار ‪Gtk+‬ در زبان برنامه نویسی C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;بررسی مقاله‌ای از &lt;a href="http://www.zdnet.com"&gt;ZDNET&lt;/a&gt; به مناسبت انتشار نسخه جدید پایدار سیستم‌عامل گنولینوکسی Debian با هدف &lt;a href="http://www.zdnet.com/article/debian-gnulinux-jessie-is-out-stretch-is-in-buster-is-started"&gt;معرفی نحوه نامگذاری و 
+توسعه نسخه‌های مختلف این توزیع محبوب لینوکسی&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;مقاله‌ای از &lt;a href="http://perens.com"&gt;Bruce Perens&lt;/a&gt; در ارتباط با &lt;a href="https://linux.slashdot.org/story/17/07/09/188246/bruce-perens-warns-grsecurity-breaches-the-linux-kernels-gpl-license"&gt;نحوه عملکرد شرکت امنیتی Grsecurity و نقض احتمالی مجوز GPLv2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;بحث و تبادل نظر درباره &lt;a href="https://venturebeat.com/2017/07/09/dont-be-scared-to-open-source-your-startups-technology/"&gt;نترسیدن از متن‌باز کردن تکنولوژی‌های شرکت‌های استارت‌آپی&lt;/a&gt; مقاله ای &lt;a href="https://venturebeat.com"&gt;https://venturebeat.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;همچنین بررسی نتایج نظرسنجی &lt;a href="https://fossbytes.com"&gt;fossbyte&lt;/a&gt; در ارتباط با شناخت &lt;a href="https://fossbytes.com/linux-laptop-survey-reveals-the-most-popular-linux-machines/"&gt;محبوب‌ترین لپ‌تاپ و توزیع‌های لینوکسی&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;بحث آزاد&lt;/h2&gt;
+&lt;p&gt;در انتهای جلسه طبق معمول جلسات گذشته، اعضا به بیان نظرات و دیدگاه‌های خود و همچنین شبکه‌سازی پرداختند. با برخی از موارد
+مطرح شده در این بخش به صورت موردی در زیر اشنا شدیم:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;در این بخش معرفی و مقایسه بسیار کاملی را بین &lt;a href="https://en.wikipedia.org/wiki/Intrusion_detection_system"&gt;سامانه‌های تشخیص نفوذ&lt;/a&gt; به شبکه را توسط آقای زبردست داشتیم. در این بخش علاوه بر شرح مفصلی بر
+تفاوت پروژه‌های متن‌بازی همچون &lt;a href="https://www.snort.org"&gt;snort&lt;/a&gt; و &lt;a href="https://suricata-ids.org"&gt;surikata&lt;/a&gt;، به نحوه عملکرد و قرارگیری چنین سیستم‌هایی در شبکه‌ها و جایگاه ویژه آنها
+پرداخته شد.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;در انتهای جلسه نیز هماهنگ شد تا با همکاری آقایان بجنوردی و زبردست، در دو جلسه آتی گروه درباره آشنایی با &lt;a href="https://wiki.smartos"&gt;سیستم‌عامل smartos&lt;/a&gt; و همچنین
+معرفی &lt;a href="https://en.wikipedia.org/wiki/SDN"&gt;Software Defined Networking&lt;/a&gt; ارائه داشته باشیم که برنامه و زمانبندی مرتبط به آن بزودی از طریق وبسایت گروه به اطلاع
+علاقمندان خواهد رسید.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;لیست حاضرین در جلسه&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;مصطفی ستاری، توسعه‌دهنده سیستم&lt;/li&gt;
+&lt;li&gt;بیژن ابراهیمی، توسعه‌دهنده سیستم&lt;/li&gt;
+&lt;li&gt;محمد زبردست، راهبر سیستم&lt;/li&gt;
+&lt;li&gt;علیرضا مودی، شبکه&lt;/li&gt;
+&lt;li&gt;امیر، برنامه نویس پایتون&lt;/li&gt;
+&lt;li&gt;نوید ایوانیان، توسعه‌دهنده وب&lt;/li&gt;
+&lt;li&gt;مهرداد فلاحتی، توسعه‌دهنده وب&lt;/li&gt;
+&lt;li&gt;رضا بجنوردی&lt;/li&gt;
+&lt;li&gt;امید تاج نیا، دانشگاه سراسری زابل&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;این جلسه در ساعت ۱۹:۳۰ خاتمه یافت.&lt;/p&gt;
+&lt;p&gt;با  تشکر از همه دوستانی که در این جلسه حضور یافتند، گروه آماده دریافت نظرات و انتقادات اعضای گروه می‌باشد.&lt;/p&gt;</content></entry><entry><title>گزارش جلسه ۲۰۱م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-201" rel="alternate"></link><published>2017-07-07T20:38:00+04:30</published><updated>2017-07-07T20:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-07-07:/reports/session-201</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۳ تیرماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
 جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
