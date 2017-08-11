@@ -19,7 +19,7 @@
 &lt;li&gt;&lt;a href="https://www.linux.com/learn/intro-to-linux/2017/7/easily-update-ubuntu-and-debian-systems-ucaresystem-core"&gt;چگونگی بروزرسانی ساده توزیع‌های گنو/لینوکسی دبین و لوبونتو با uCareSystem&lt;/a&gt; &lt;/li&gt;
 &lt;li&gt;و همچنین &lt;a href="http://www.vanille.de/openmoko-10-years-after-mickeys-story/"&gt;OpenMoko، بعد از ۱۰ سال&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;آشنایی با سیستم‌عامل SmartOS از شرکت Joyent &lt;em&gt;رضا بجنوردی&lt;/em&gt;&lt;/h1&gt;
+&lt;h2&gt;آشنایی با سیستم‌عامل SmartOS از شرکت Joyent &lt;em&gt;رضا بجنوردی&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;در بخش ارائه این جلسه، میزبان آقای رضا بجنوردی بودیم با ارائه «آشنایی با سیستم‌عامل SmartOS». توضیحی کوتاه درباره این سیستم‌عامل، به همراه ویژگی‌های کلیدی آن را در زیر مشاهده خواهید نمود. برای اطلاعات بیشتر لینک اسلاید ارائه به زودی در این گزارش قرار خواهد گرفت.&lt;/p&gt;
 &lt;p&gt;یک سیستم عامل متن باز بر اساس سیستم عامل یونیکس که تکنولوژی open solaris را با مجازی سازی kvm لینوکس ترکیب کرده و کرنل اصلی این سیستم عامل به پروژه illumos کمک کرده که این سیستم عامل از چند ویژگی استفاده میکند که در ارائه مطرح شد:&lt;/p&gt;
 &lt;ul&gt;
