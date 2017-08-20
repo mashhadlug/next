@@ -245,7 +245,7 @@ Put DVD in the drive and run:  </p>
 
 
 <p>and see what you got in that DVD. You can also try:  </p>
-<div class="highlight"><pre><span></span>$ mplayer -dvd-device <span class="nv">$your_dvd_device_here</span> dvd://<span class="nv">$track_number</span>
+<div class="highlight"><pre><span></span>$ mplayer -dvd-device $your_dvd_device_here dvd://$track_number
 </pre></div>
 
 
@@ -253,7 +253,7 @@ Put DVD in the drive and run:  </p>
 <p>Now, DVD can be converted directly using h264enc or by first dumping it to a raw<br>
 mpeg video file and converting that file with h264enc. In dumping method you first<br>
 need to run:  </p>
-<div class="highlight"><pre><span></span>$ mplayer dvd://<span class="nv">$track_number</span> -dumpstream -dumpfile <span class="nv">$movie_name_dumpfile</span>.vob
+<div class="highlight"><pre><span></span>$ mplayer dvd://$track_number -dumpstream -dumpfile $movie_name_dumpfile.vob
 </pre></div>
 
 
