@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد - reports</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/reports.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-09-15T12:00:00+04:30</updated><entry><title>گزارش جلسه ۲۰۶م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-206" rel="alternate"></link><published>2017-09-15T12:00:00+04:30</published><updated>2017-09-15T12:00:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-09-15:/reports/session-206</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۱ شهریورماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد - reports</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/reports.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-11-26T19:47:00+03:30</updated><entry><title>گزارش جلسه ۲۰۷م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-207" rel="alternate"></link><published>2017-11-26T19:47:00+03:30</published><updated>2017-11-26T19:47:00+03:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-11-26:/reports/session-207</id><summary type="html">&lt;p&gt;این جلسه در روز شنبه ۴ آذرماه ۱۳۹۶ با حضور اعضای گروه در فرهنگسرای ترافیک شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویست و هفتمین جلسه گروه کاربران لینوکس مشهد، با ارائه …&lt;/p&gt;</summary><content type="html">&lt;p&gt;این جلسه در روز شنبه ۴ آذرماه ۱۳۹۶ با حضور اعضای گروه در فرهنگسرای ترافیک شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویست و هفتمین جلسه گروه کاربران لینوکس مشهد، با ارائه‌ اخبار و مقاله‌های
+علمی مرتبط با مباحث مطرح پیرامون نرم‌افزارهای آزاد و متن‌باز، با تشکر از
+«آقای مصطفی ستاری» برگزار شد. درصورت تمایل به مطالعه بیشتر، می‌توانید بر
+روی پیوند‌های مرتبط با هر خبر کلیک نمائید&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.theregister.co.uk/2017/11/13/munich_committee_says_all_windows_2020/"&gt;انصراف شورای شهر مونیخ از مهاجرت به گنو/لینوکس&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://itsfoss.com/linux-runs-top-supercomputers/"&gt;اجرای لینوکس بر روی تمامی ۵۰۰ ابرکامپیوتر برتر دنیا&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;بررسی انتشار &lt;a href="https://www.cs.cmu.edu/~davide/bad_thing.html"&gt;INTEL-SA-00086&lt;/a&gt; و خبرهای پیرامون آن&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;در بخش بررسی مقاله‌های این هفته نیز داشتیم:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;معرفی پلتفرم هوش ماشینی گوگل به نام &lt;a href="https://opensource.com/article/17/11/intro-tensorflow"&gt;tensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;معرفی &lt;a href="https://opensource.com/article/17/11/how-install-and-use-openproject"&gt;OpenProject&lt;/a&gt;، جایگزینی برای ابزارهای انحصاری مدیریت پروژه&lt;/li&gt;
+&lt;li&gt;و در انتها، معرفی برترین ابزارهای متن‌باز &lt;a href="http://linuxblog.darkduck.com/2017/11/the-best-pcb-design-software-for-linux.html"&gt;طراحی PCB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;خط فرمان: Bats، سیستم تست اتوماسیون بر پایه BASH &lt;em&gt;بیژن ابراهیمی&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;در خط فرمان این هفته، پس از مروری بر قواعد اسکریپت‌نویسی در سیستم‌های یونیکسی،
+و معرفی روشی برای افزایش اطمینان از اجرای صحیح دستورات در اسکریپت‌های
+شل، به معرفی سیستم اتوماسیون تست مبتنی بر bash پرداخته شد. محتوای
+این ارائه را می‌توانید از &lt;a href="https://gitlab.com/snippets/1686053"&gt;این آدرس&lt;/a&gt; دریافت نمائید.&lt;/p&gt;
+&lt;h2&gt;‫OpenSource و آینده آن در سازمان‌ها &lt;em&gt;محمد زبردست&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;بخش دوم جلسه به موضوع «OpenSource و آینده آن در سازمان‌ها»
+اختصاص داشت که هدف از آن بررسی روندهای کنونی پذیرش وبکارگیری متن باز
+در سازمان ها وشرکت ها و ارایه افقی از آینده متن باز بود.&lt;/p&gt;
+&lt;p&gt;محور این بحث نتایج پژوهش «Black Duck» باعنوان
+‫«2016 Future of Open Source Survey Results» بود.
+از موارد مهم مورد بحث، دلایل بکارگیری راهکارهای متن باز در سازمانها
+و شرکت ها بود که در این پژوهش به ترتیب کیفیت راهکار، قابلیت های فنی
+و رقابتی و در نهایت امکان سفارشی سازی و رفع ایراد بیشترین رای را داشته
+است. پرسش شوندگان این پژوهش معتقد بودند راهکارهای متن باز در
+ سیستم عامل ها، پایگاههای داده و ابزارهای توسعه نرم افزار بیش از
+سایرحوزه ها، بکار گرفته می شود.&lt;/p&gt;
+&lt;p&gt;سپس در باره مزایای متن باز، دلایل و میزان مشارکت شرکت ها در پروژه های
+متن باز بحث شد. همچنین وضعیت رصد کدهای پروژه های متن باز و چالش های
+امنیتی آن طبق پژوهش بررسی شد.&lt;/p&gt;
+&lt;p&gt;در نهایت اثر متن باز در کسب و کارها و الگوهای تجاری آن مورد بحث قرار گرفت.
+در انتهای جلسه اعضا درباره نتایج این پژوهش، روندهای داخلی و آینده مورد
+انتظار متن باز از دیدگاه خود به بحث و تبادل نظر پرداختند. &lt;/p&gt;
+&lt;p&gt;اسلاید‌های ارائه شده در این بخش را می‌توانید از &lt;a href="https://www.slideshare.net/blackducksoftware/2016-future-of-open-source-survey-results"&gt;این آدرس&lt;/a&gt; دریافت نمائید.&lt;/p&gt;
+&lt;h2&gt;بحث آزاد&lt;/h2&gt;
+&lt;p&gt;در انتهای جلسه طبق معمول جلسات گذشته، اعضا به بیان نظرات و دیدگاه‌های خود
+و همچنین شبکه‌سازی پرداختند. همچنین موارد زیر توسط حاضرین در این بخش به
+بحث گذاشته شد که در صورت تمایل هر یک از اعضا، موارد مفیدی برای ارائه در
+جلسات آینده گروه خواهد بود:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;بررسی عملکرد و وضعیت متن‌باز در کشور؛ کاستی‌ها و دلایل آن&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;این جلسه بعلت طولانی شدن مباحث در ساعت ۲۰:۳۰ خاتمه یافت.
+با  تشکر از همه دوستانی که در این جلسه حضور یافتند،
+گروه آماده دریافت نظرات و انتقادات اعضای گروه می‌باشد.&lt;/p&gt;</content><category term="@بیژن ابراهیمی"></category><category term="@امیر زارع"></category><category term="@محمد زبردست"></category><category term="@علیرضا حکم‌آبادی"></category><category term="@مرتضی فتح نیا"></category><category term="@علی رضایی"></category><category term="@نعیم ستاری"></category><category term="@امیر حسین بتایی"></category><category term="@علیرضا تجلی"></category><category term="@سجاد جعفری"></category><category term="@مهدی باقری"></category><category term="@بهزاد تعبدی"></category><category term="@نوید ایوانیان"></category><category term="@مجتبی جلالی راد"></category><category term="@سروش افضلیان"></category><category term="@سنجری"></category><category term="@مصطفی ستاری"></category><category term="@مهدی عطائیان"></category><category term="@رامین نجارباشی"></category><category term="@صادق داوطلب"></category></entry><entry><title>گزارش جلسه ۲۰۶م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-206" rel="alternate"></link><published>2017-09-15T12:00:00+04:30</published><updated>2017-09-15T12:00:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-09-15:/reports/session-206</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۲۱ شهریورماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
 جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
@@ -264,7 +321,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;این جلسه در ساعت ۱۹:۳۰ خاتمه یافت.&lt;/p&gt;
-&lt;p&gt;با  تشکر از همه دوستانی که در این جلسه حضور یافتند، گروه آماده دریافت نظرات و انتقادات اعضای گروه می‌باشد.&lt;/p&gt;</content><category term="@مصطفی ستاری"></category><category term="@بیژن ابراهیمی"></category><category term="@علیرضا حکم‌آبادی"></category><category term="@محمد زبردست"></category><category term="@علیرضا مودی"></category><category term="@نوید ایوانیان"></category><category term="@مهرداد فلاحتی"></category><category term="@رضا بجنوردی"></category><category term="@امید تاج نیا"></category><category term="@محمدیار کرمیان"></category></entry><entry><title>گزارش جلسه ۲۰۱م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-201" rel="alternate"></link><published>2017-07-07T20:38:00+04:30</published><updated>2017-07-07T20:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-07-07:/reports/session-201</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۳ تیرماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
+&lt;p&gt;با  تشکر از همه دوستانی که در این جلسه حضور یافتند، گروه آماده دریافت نظرات و انتقادات اعضای گروه می‌باشد.&lt;/p&gt;</content><category term="@مصطفی ستاری"></category><category term="@بیژن ابراهیمی"></category><category term="@علیرضا حکم‌آبادی"></category><category term="@محمد زبردست"></category><category term="@علیرضا مودی"></category><category term="@نوید ایوانیان"></category><category term="@مهرداد فلاحتی"></category><category term="@رضا بجنوردی"></category><category term="@امید تاج‌نیا"></category><category term="@محمدیار کرمیان"></category></entry><entry><title>گزارش جلسه ۲۰۱م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-201" rel="alternate"></link><published>2017-07-07T20:38:00+04:30</published><updated>2017-07-07T20:38:00+04:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-07-07:/reports/session-201</id><summary type="html">&lt;p&gt;این جلسه در روز سه‌شنبه ۱۳ تیرماه ۱۳۹۶ با حضور اعضای گروه در محل شتاب دهنده TrigUp فناپ برگزار شد. مباحثی که در این
 جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
