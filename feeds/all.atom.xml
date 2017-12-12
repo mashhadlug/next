@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-11-26T19:47:00+03:30</updated><entry><title>گزارش جلسه ۲۰۷م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-207" rel="alternate"></link><published>2017-11-26T19:47:00+03:30</published><updated>2017-11-26T19:47:00+03:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-11-26:/reports/session-207</id><summary type="html">&lt;p&gt;این جلسه در روز شنبه ۴ آذرماه ۱۳۹۶ با حضور اعضای گروه در فرهنگسرای ترافیک شد. مباحثی که در این
+<feed xmlns="http://www.w3.org/2005/Atom"><title>گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/" rel="alternate"></link><link href="http://next.mashhadlug.org/feeds/all.atom.xml" rel="self"></link><id>http://next.mashhadlug.org/</id><updated>2017-12-09T19:47:00+03:30</updated><entry><title>گزارش جلسه ۲۰۸م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-208" rel="alternate"></link><published>2017-12-09T19:47:00+03:30</published><updated>2017-12-09T19:47:00+03:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-12-09:/reports/session-208</id><summary type="html">&lt;p&gt;این جلسه در روز شنبه ۱۸ آذرماه ۱۳۹۶ با حضور اعضای گروه در فرهنگسرای ترافیک شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;بحث آزاد؛ «گروه کاربران متن‌باز مشهد» &lt;em&gt;بیژن ابراهیمی&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویست و هشتمین جلسه گروه کاربران لینوکس مشهد با معرفی …&lt;/p&gt;</summary><content type="html">&lt;p&gt;این جلسه در روز شنبه ۱۸ آذرماه ۱۳۹۶ با حضور اعضای گروه در فرهنگسرای ترافیک شد. مباحثی که در این
+جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;بحث آزاد؛ «گروه کاربران متن‌باز مشهد» &lt;em&gt;بیژن ابراهیمی&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;دویست و هشتمین جلسه گروه کاربران لینوکس مشهد با معرفی گروه و
+ارايه و بحث بر روی گسترش فعالیت‌های گروه و راه‌اندازی «گروه کاربران
+متن‌باز مشهد» برگزار شد. این ایده که با حمایت «گروه کاربران لینوکس مشهد»،
+«گروه کاربران بی‌اس‌دی مشهد»، «گروه کاربران OpenSourceNetworking مشهد»
+و «همچنین گروه کاربران پایتون مشهد» و با هدف متمرکزتر کردن فعالیت
+کاربران و علاقه‌مندان به تکنولوژی‌های متن‌باز مطرح شده است در این جلسه
+به بحث گذاشته شد. امیدواریم با پیگیری بحث‌های مرتبط در جلسات بعدی
+گروه، بزودی شاهد فعالیت‌های مثبتی در این زمینه باشیم.&lt;/p&gt;
+&lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;در ادامه این جلسه با ارائه‌ اخبار و بررسی مقاله‌های
+علمی مرتبط با مباحث مطرح پیرامون نرم‌افزارهای آزاد و متن‌باز،
+در خدمت اقای ستاری بودیم. درصورت تمایل به مطالعه بیشتر، می‌توانید بر
+روی پیوند‌های مرتبط با هر خبر کلیک نمائید:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/"&gt;انتشار مدل تشخیص گفتار و دیتاست صدای متن‌باز توسط موزیلا&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ino.to/bVpU2EV"&gt;اعلام حمایت مالی از آثار هنری مرتبط با امنیت و حریم خصوصی توسط موزیلا&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;راه اندازی وب‌سایت &lt;a href="http://sources.debian.org"&gt;source.debian.org&lt;/a&gt;‌ برای جستجو در سورس بسته‌های دبیان&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apple.slashdot.org/story/17/12/06/0530230/google-wants-progressive-web-apps-to-replace-chrome-apps?utm_source=rss0.9mainlinkanon&amp;amp;utm_medium=feed"&gt;جایگزین کردن Chrome Apps‌ با Progressive Web Apps توسط گوگل&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://news.softpedia.com/news/google-releases-chrome-63-for-linux-mac-and-windows-fixes-37-security-issues-518866.shtml"&gt;انتشار نسخه ۶۳ مرورگر کروم و فیکس ۳۷ مشکل امنیتی&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://opensource.com/article/17/12/10-must-read-devops-books"&gt;معرفی ۱۰ منبع خواندنی در رابطه با DevOps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.mozilla.org/blog/2017/12/08/mozilla-awards-research-grants-to-fund-top-research-projects/"&gt;اعلام پروژه‌های تحقیقاتی برگزیده جهت حمایت مالی توسط موزیلا&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.eweek.com/cloud/openstack-launches-kata-containers-project-to-improve-security"&gt;راه‌اندازی پروژه Kata Containers توسط OpenStack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;همچنین برای مشارکت در بحث و گفتگو بر روی اخبار مورد علاقه خود
+بصورت آزمایشی می‌توانید با ارسال لینک به بُرد &lt;a href="http://scoop.it/t/technotux"&gt;technotux&lt;/a&gt; در سرویس
+‫&lt;a href="http://scoop.it/"&gt;scoop.it&lt;/a&gt; ما را در برگزاری هر چه بهتر این بخش یاری رسانید.&lt;/p&gt;
+&lt;h2&gt;آشنایی با تکنولوژی  BlockChain &lt;em&gt;مهدی عطائیان&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;این هفته در خدمت آقای عطائیان از شرکت «پیشگامان توسعه متن‌باز»
+بودیم با مقدمه‌ای بر تکنولوژی متن‌باز BlockChain. این ارائه در دو بخش
+مجزا با مباحث زیر در گروه برگزار خواهد شد.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;بخش اول؛ آشنایی با BlockChain&lt;/li&gt;
+&lt;li&gt;بخش دوم؛ تکنولوژی‌ها و پیاده‌سازی‌ها&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;در بخش اول از این مبحث که در این جلسه به آن پرداخته شد، به
+معرفی تکنولوژی BlockChain، کاربردها و پتانسیل‌های وسیع
+آن در متحول کردن مسیر رشد تکنولوژی پرداخته شد. فایل ارائه
+بخش اول را از &lt;a href="https://www.slideshare.net/ataeyan/blockchanes"&gt;این آدرس&lt;/a&gt; می‌توانید دریافت نمائید.&lt;/p&gt;
+&lt;h2&gt;بحث آزاد&lt;/h2&gt;
+&lt;p&gt;در انتهای جلسه طبق معمول جلسات گذشته، اعضا به بیان نظرات و دیدگاه‌های خود
+و همچنین شبکه‌سازی پرداختند.&lt;/p&gt;
+&lt;p&gt;این جلسه در ساعت ۱۹:۳۰ خاتمه یافت.
+با  تشکر از همه دوستانی که در این جلسه حضور یافتند،
+گروه آماده دریافت نظرات و انتقادات اعضای گروه می‌باشد.&lt;/p&gt;</content><category term="@علی رضایی"></category><category term="@بیژن ابراهیمی"></category><category term="@مهدی عطائیان"></category><category term="@الهه غلامی"></category><category term="@رامین نجارباشی"></category><category term="@مصطفی ستاری"></category><category term="@علیرضا حکم‌آبادی"></category><category term="@نعیم ستاری"></category><category term="@علی موسوی"></category><category term="@ملیحه محمدی تبار"></category><category term="@مهدی حسین‌زاده بحرینی"></category><category term="@ناصر علامعلی‌زاده"></category><category term="@علیرضا تجلی"></category><category term="@محمد زبردست"></category><category term="@رضا مرندی"></category><category term="@مصطفی فخرائی"></category><category term="@سعید کاظمی"></category><category term="@آرشام محمدی"></category><category term="@سروش افضلیان"></category><category term="@امیرحسین بقایی"></category></entry><entry><title>گزارش جلسه ۲۰۷م گروه کاربران لینوکس مشهد</title><link href="http://next.mashhadlug.org/reports/session-207" rel="alternate"></link><published>2017-11-26T19:47:00+03:30</published><updated>2017-11-26T19:47:00+03:30</updated><author><name>admin</name></author><id>tag:next.mashhadlug.org,2017-11-26:/reports/session-207</id><summary type="html">&lt;p&gt;این جلسه در روز شنبه ۴ آذرماه ۱۳۹۶ با حضور اعضای گروه در فرهنگسرای ترافیک شد. مباحثی که در این
 جلسه به آنها پرداخته شد را در زیر مشاهده خواهید نمود:
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;اخبار دنیای گنو/لینوکس و متن‌باز &lt;em&gt;مصطفی ستاری&lt;/em&gt;&lt;/h2&gt;
